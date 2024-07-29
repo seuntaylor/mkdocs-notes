@@ -1,1 +1,2 @@
-#How to register your email address with an email applicationß
+#IMAP Connection
+This will guide you on registering your IMAP-based email address with an email application
